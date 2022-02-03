@@ -1,0 +1,12 @@
+
+.footer-block {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.footer-info-section {
+    display: flex;
+    flex-direction: column;
+}
+
